@@ -1,2 +1,1 @@
-# hello-world
-Starting point
+It's time.
